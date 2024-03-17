@@ -12,7 +12,7 @@ Business Intelligence Developer
 * 🧠  I'm learning Python, Jupiter Notebook
 * 🤝  I'm open to collaborating on interesting projects
 
-[![GitHub followers](https://img.shields.io/github/followers/davidnagy1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a)](https://www.github.com/davidnagy1)
+![](https://komarev.com/ghpvc/?username=davidnagy1&label=PROFILE+VIEWS)
 
 ### Skills
 
